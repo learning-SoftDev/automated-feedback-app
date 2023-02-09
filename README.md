@@ -1,7 +1,13 @@
 # automated-feedback-app
 
 
-This whole system was built using MS Power Platforms i.e. Microsoft Powerapp for UI, Microsoft Power Automate for automated sending of emails, and Power BI for the Dashboard. The idea behind the app is that the admins can select the engagements that are already completed from the datasource (which is Sharepoint list) then after clicking the send button, it'll automatically send the individiual feedback request email to each of the respective POCs (based from the selected engagements) which contains the link for the feedback survey instrument. After the specified days of the supposed response, if the POCs haven't yet responded, the tool will automatically send a follow up email every two days.<br>
+This whole system was built using MS Power Platforms i.e. <br>
+ - Microsoft Powerapp for UI 
+ - Microsoft Power Automate for automated sending of emails
+ - Power BI for the Dashboard
+ - Sharepoint for storing of Data <br>
+<br>
+The idea behind the app is that the admins can select the engagements that are already completed from the datasource (which is Sharepoint list) then after clicking the send button, it'll automatically send the individiual feedback request email to each of the respective POCs (based from the selected engagements) which contains the link for the feedback survey instrument. After the specified days of the supposed response, if the POCs haven't yet responded, the tool will automatically send a follow up email every two days.<br>
 <br>
 
 (Removed details with sensitive info)<br>
